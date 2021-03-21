@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Présentation
+title: À propos
 permalink: /default/
 ---
 
