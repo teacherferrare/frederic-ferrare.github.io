@@ -1,7 +1,7 @@
 ---
 layout: page
 title: À propos
-permalink: /default/
+permalink: /about/
 ---
 
 En construction
